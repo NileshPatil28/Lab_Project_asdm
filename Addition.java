@@ -5,5 +5,6 @@ class Addition {
         b = 10;
         int sum = a + b;
         System.out.println("Addition of a and b is:" + sum);
+        System.out.println("---------End-----------");
     }
 }
